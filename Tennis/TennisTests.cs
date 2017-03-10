@@ -75,10 +75,21 @@ namespace Tennis
             var highestScore = Math.Max(this.player1Score, this.player2Score);
             for (var i = 0; i < highestScore; i++)
             {
-                if (i < this.player1Score)
-                    game.WonPoint("player1");
-                if (i < this.player2Score)
-                    game.WonPoint("player2");
+                if (game is TennisGame1)
+                {
+                    TennisGame1 game1 = game as TennisGame1;
+                    if (i < this.player1Score)
+                        game1.Player1WonPoint();
+                    if (i < this.player2Score)
+                        game1.Player2WonPoint();
+                }
+                else
+                {
+                    if (i < this.player1Score)
+                        game.WonPoint("player1");
+                    if (i < this.player2Score)
+                        game.WonPoint("player2");
+                }
             }
             Assert.AreEqual(this.expectedScore, game.GetScore());
         }

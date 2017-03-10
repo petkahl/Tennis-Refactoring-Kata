@@ -13,6 +13,14 @@ namespace Tennis
             this.player2Name = player2Name;
         }
 
+        public void Player1WonPoint()
+        {
+            m_score1++;
+        }
+        public void Player2WonPoint()
+        {
+            m_score2++;
+        }
         public void WonPoint(string playerName)
         {
             if (playerName == "player1")
