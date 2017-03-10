@@ -1,0 +1,211 @@
+﻿<ProjectConfiguration>
+  <Settings>
+    <IgnoredTests>
+      <NamedTestSelector>
+        <TestName>Tennis.ExampleGameTennisTest.CheckGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.ExampleGameTennisTest.CheckGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(0,0,"Love-All").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(0,0,"Love-All").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(0,4,"Win for player2").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(0,4,"Win for player2").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(0,3,"Love-Forty").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(0,3,"Love-Forty").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(0,2,"Love-Thirty").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(0,2,"Love-Thirty").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(0,1,"Love-Fifteen").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(0,1,"Love-Fifteen").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(14,16,"Win for player2").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(14,16,"Win for player2").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(14,15,"Advantage player2").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(14,15,"Advantage player2").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(1,4,"Win for player2").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(1,4,"Win for player2").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(1,3,"Fifteen-Forty").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(1,3,"Fifteen-Forty").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(1,2,"Fifteen-Thirty").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(1,2,"Fifteen-Thirty").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(1,1,"Fifteen-All").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(1,1,"Fifteen-All").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(1,0,"Fifteen-Love").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(1,0,"Fifteen-Love").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(15,14,"Advantage player1").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(15,14,"Advantage player1").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(16,14,"Win for player1").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(16,14,"Win for player1").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(2,0,"Thirty-Love").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(2,0,"Thirty-Love").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(2,1,"Thirty-Fifteen").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(2,1,"Thirty-Fifteen").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(2,2,"Thirty-All").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(2,2,"Thirty-All").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(2,3,"Thirty-Forty").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(2,3,"Thirty-Forty").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(2,4,"Win for player2").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(2,4,"Win for player2").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(3,0,"Forty-Love").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(3,0,"Forty-Love").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(3,1,"Forty-Fifteen").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(3,1,"Forty-Fifteen").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(3,2,"Forty-Thirty").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(3,2,"Forty-Thirty").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(3,3,"Deuce").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(3,3,"Deuce").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(3,4,"Advantage player2").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(3,4,"Advantage player2").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(4,0,"Win for player1").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(4,0,"Win for player1").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(4,1,"Win for player1").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(4,1,"Win for player1").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(6,4,"Win for player1").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(6,4,"Win for player1").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(5,4,"Advantage player1").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(5,4,"Advantage player1").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(4,6,"Win for player2").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(4,6,"Win for player2").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(4,5,"Advantage player2").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(4,5,"Advantage player2").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(4,4,"Deuce").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(4,4,"Deuce").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(4,3,"Advantage player1").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(4,3,"Advantage player1").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(4,2,"Win for player1").CheckTennisGame3</TestName>
+      </NamedTestSelector>
+      <NamedTestSelector>
+        <TestName>Tennis.TennisTests(4,2,"Win for player1").CheckTennisGame2</TestName>
+      </NamedTestSelector>
+    </IgnoredTests>
+    <PreviouslyBuiltSuccessfully>True</PreviouslyBuiltSuccessfully>
+  </Settings>
+</ProjectConfiguration>
