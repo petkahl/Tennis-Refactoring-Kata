@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 
 namespace Tennis
 {
@@ -17,6 +18,13 @@ namespace Tennis
         private int m_score2 = 0;
         private string player1Name;
         private string player2Name;
+
+        public static Dictionary<int, string> victory = new Dictionary<int, string>() {
+            { -2, "Win for player2" },
+            { -1, "Advantage player2" },
+            { 1, "Advantage player1" },
+            { 2, "Win for player1" }
+            };
 
         public TennisGame1(string player1Name, string player2Name)
         {
@@ -56,24 +64,18 @@ namespace Tennis
             }
             else if (m_score1 >= 4 || m_score2 >= 4)
             {
-                string player = "player1";
                 var minusResult = m_score1 - m_score2;
-                if (minusResult < 0) player = "player2";
-                if (Math.Abs(minusResult) == 1)
+                var absResult = Math.Abs(minusResult);
+
+                if (absResult > 2)
                 {
-                    score = "Advantage " + player;
-                } else
-                {
-                    score = "Win for " + player;
+                    minusResult = minusResult / absResult * 2;
                 }
-                //if (minusResult == 1) score = "Advantage player1";
-                //else if (minusResult == -1) score = "Advantage player2";
-                //else if (minusResult >= 2) score = "Win for player1";
-                //else score = "Win for player2";
+                score = victory[minusResult];
             }
             else
             {
-                    score = CalculateOneScore(m_score1) + "-" + CalculateOneScore(m_score2);
+                score = CalculateOneScore(m_score1) + "-" + CalculateOneScore(m_score2);
             }
             return score;
         }
